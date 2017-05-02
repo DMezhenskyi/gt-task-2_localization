@@ -1,0 +1,14 @@
+<section class="container">
+  <div class="header-content row">
+    <div class="header-content--hello">
+      <a [routerLink]="currentLang">Hello GreenTube2!</a> |
+      <a (click)="changeLanguage('en')"
+         [ngClass]="{'header-content--link-toggle': true, 'active': currentLang === 'en'}"
+         [routerLinkActive]="['active']">EN</a>
+      <a (click)="changeLanguage('de')"
+         [ngClass]="{'header-content--link-toggle': true, 'active': currentLang === 'de'}"
+         [routerLinkActive]="['active']">DE</a>
+
+    </div>
+  </div>
+</section>
