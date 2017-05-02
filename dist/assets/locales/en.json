@@ -1,0 +1,12 @@
+{
+  "APP_TITLE": "Some app text",
+  "HOME": "Home >",
+  "USERS": "Users >",
+  "PROFILE": "Profile >",
+  "BACK": "< Back",
+  "LOGIN": "Login",
+  "HELLO": "Hello! If you want to signin - click here: ",
+  "ROUTES.login": "login",
+  "ROUTES.profile": "profile",
+  "ROUTES.home": "home"
+}
