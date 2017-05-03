@@ -1,4 +1,4 @@
-# GreentubeTask2 (Localization)
+# GreentubeTask2 (Localize urls)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0.
 

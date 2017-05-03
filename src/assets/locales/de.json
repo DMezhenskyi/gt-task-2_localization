@@ -1,12 +1,5 @@
 {
-  "APP_TITLE": "Einige Applikationstext",
-  "HOME": "Startseite >",
-  "USERS": "Benutzer >",
-  "PROFILE": "Profil >",
-  "BACK": "< Zurkuck",
   "LOGIN": "Anmeldung",
   "HELLO": "Hallo! Wenn Sie anmelden möchten - clicken Sie bitte hier: ",
-  "ROUTES.login": "anmeldung",
-  "ROUTES.profile": "profil",
-  "ROUTES.home": "startseite"
+  "ROUTES.login": "anmeldung"
 }
